@@ -1,0 +1,13 @@
+# NetBeans / Ant
+nbproject/
+build/
+dist/
+
+# Java
+*.class
+
+# IDEs / OS
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
